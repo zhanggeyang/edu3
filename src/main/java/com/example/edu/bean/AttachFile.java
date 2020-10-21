@@ -24,4 +24,6 @@ public class AttachFile {
     private String date;
     //附件地址
     private String location;
+    //用户真是姓名
+    private String realName;
 }
