@@ -26,4 +26,6 @@ public class AttachFile {
     private String location;
     //用户真是姓名
     private String realName;
+    //新增用户真实地址
+    private String realAddress;
 }
